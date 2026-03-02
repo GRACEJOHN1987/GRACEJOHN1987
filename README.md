@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Grace John 👋
 
-<!--
-**GRACEJOHN1987/GRACEJOHN1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics Professional with 6+ years IT experience.
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Digital Marketing Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced SQL
+- Data Visualization
+- Marketing Performance Analysis
+
+## Career Goal
+To work as a Business Analyst / Marketing Analyst in a data-driven organization.
